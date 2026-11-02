@@ -1,6 +1,6 @@
 Profile:EducationEncounter
 Parent:Encounter
-Id:EducaEncounter
+Id:EducationEncounter
 Title:"Mina fina profile"
 * subject 1..1 MS
 
