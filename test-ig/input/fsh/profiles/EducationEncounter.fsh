@@ -1,4 +1,4 @@
-5Profile:EducationEncounter
+Profile:EducationEncounter
 Parent:Encounter
 Id:EducaEncounter
 Title:"Mina fina profile"
